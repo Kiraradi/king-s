@@ -1,0 +1,46 @@
+.section-hed {
+    margin-top: 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    width: 50%;
+}
+
+.hed-title {
+    display: flex;
+    text-align: center;
+    font-size: 56px;
+}
+
+.hed-description {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.button-wpapper {
+    display: flex;
+    gap: 15px;
+}
+
+.order-button {
+    background-color: #705AF8;
+    border: 1px solid #705AF8;
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: white;
+}
+
+.info-button {
+    background-color: #FFE287;
+    border: 1px solid #FFE287;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.hed-img {
+    margin-top: 84px;
+}

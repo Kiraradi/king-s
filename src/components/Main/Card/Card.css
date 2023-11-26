@@ -1,0 +1,31 @@
+.section-Card {
+    display: flex;
+    justify-content: space-between;
+    padding: 120px 60px;
+    gap: 64px;
+}
+
+.card-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 24px;
+    align-items: flex-start;
+}
+
+.card-title {
+    font-size: 48px;
+}
+
+.card-description {
+    font-size: 18px;
+ }
+
+ .button-card {
+    width: 30%;
+    background-color: #705AF8;
+    border: 1px solid #705AF8;
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: white;
+ }

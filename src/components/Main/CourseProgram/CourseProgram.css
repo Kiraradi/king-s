@@ -1,0 +1,25 @@
+.section-courseProgram {
+    display: flex;
+    background-color: #705AF8;
+    padding: 80px 64px;
+    border-radius: 15px;
+    gap: 60px;
+}
+
+.courseProgram-description-wpapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    max-width: 50% ;
+    flex-grow: 1;
+}
+
+.courseProgram-img{
+    width: 30%;
+}
+
+.courseProgram-list {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
